@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://f003.backblazeb2.com/file/bg3vpg/vera2/img000.jpg",
+    "thumb": "https://f003.backblazeb2.com/file/bg3vpg/vera2/thumb/img000.webp",
+    "aspectRatio": 1.7778,
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "url": "https://f003.backblazeb2.com/file/bg3vpg/vera2/img001.jpg",
+    "thumb": "https://f003.backblazeb2.com/file/bg3vpg/vera2/thumb/img001.webp",
+    "aspectRatio": 1.7778,
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "url": "https://f003.backblazeb2.com/file/bg3vpg/vera2/img002.jpg",
+    "thumb": "https://f003.backblazeb2.com/file/bg3vpg/vera2/thumb/img002.webp",
+    "aspectRatio": 0.5625,
+    "width": 2160,
+    "height": 3840
+  },
+  {
+    "url": "https://f003.backblazeb2.com/file/bg3vpg/vera2/img003.jpg",
+    "thumb": "https://f003.backblazeb2.com/file/bg3vpg/vera2/thumb/img003.webp",
+    "aspectRatio": 1.7778,
+    "width": 3840,
+    "height": 2160
+  }
+]

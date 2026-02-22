@@ -60,7 +60,7 @@ site_modules:
   - id: projects
     name: Projects
     url: /projects/
-    enabled: true
+    enabled: false
     icon: bi-code-square
     admin_url: /vippy/projects
   - id: blog

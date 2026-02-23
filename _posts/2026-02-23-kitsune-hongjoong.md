@@ -6,7 +6,10 @@ description: 'Hongjoong head by Verspertilio Art styled as a kitsune. '
 developer: Larian
 categories:
   - virtual-photography
-tags: []
+tags:
+  - mods
+  - test
+  - bg3
 slug: kitsune-hongjoong
 card-image: 2
 card-offset: 50

@@ -1,6 +1,6 @@
-title: Vippy
-description: A customizable portfolio template for virtual photography
-url: https://vippy.nairdah.me
+title: gcolquhoun
+description: Germaine's photography portfolio.
+url: https://gcahoon.github.io
 baseurl: ''
 remote_theme: YoussefRaafatNasry/portfolYOU
 logo: /assets/logo.png
@@ -14,7 +14,8 @@ nav_exclude:
   - pages/404.html
   - pages/index.md
 author:
-  name: Vippy
+  name: gcolquhoun
+  bluesky: gcolquhoun
 permalink: /:categories/:title
 collections:
   projects:
@@ -24,7 +25,7 @@ virtual_photography:
   show_date: true
   show_tags: true
 analytics:
-  enabled: true
+  enabled: false
   google:
     tracking_id: ''
 defaults:

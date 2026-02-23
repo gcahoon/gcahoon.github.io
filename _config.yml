@@ -67,12 +67,12 @@ site_modules:
   - id: blog
     name: Blog
     url: /blog/
-    enabled: true
+    enabled: false
     icon: bi-journal-text
     admin_url: /vippy/blog
   - id: about
     name: About
     url: /about/
-    enabled: true
+    enabled: false
     icon: bi-person-circle
     admin_url: /vippy/about

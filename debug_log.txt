@@ -206,3 +206,72 @@ logo: /assets/logo.png
 keywords: portfolio, phot...
 Config saved successfully
 
+--- Request 2026-02-23T00:19:21.290Z ---
+Body keys: title, description, url, author_name, theme_color_mode, theme_color_preset, theme_color_custom, keywords, analytics_id, social_twitter, social_bluesky, social_behance, social_dribbble, social_email, social_facebook, social_github, social_gitlab, social_instagram, social_kaggle, social_linkedin, social_medium, social_soundcloud, social_spotify, social_stackoverflow, social_tumblr, social_twitch, social_vimeo, social_youtube, social_keybase, social_discord, social_kofi
+Body: {
+  "title": "gcolquhoun",
+  "description": "Germaine's photography portfolio.",
+  "url": "https://gcahoon.github.io",
+  "author_name": "gcolquhoun",
+  "theme_color_mode": "preset",
+  "theme_color_preset": "Mauve",
+  "theme_color_custom": "#cba6f7",
+  "keywords": "portfolio, photography, developer, personal site",
+  "analytics_id": "",
+  "social_twitter": "",
+  "social_bluesky": "gcolquhoun",
+  "social_behance": "",
+  "social_dribbble": "",
+  "social_email": "",
+  "social_facebook": "",
+  "social_github": "",
+  "social_gitlab": "",
+  "social_instagram": "",
+  "social_kaggle": "",
+  "social_linkedin": "",
+  "social_medium": "",
+  "social_soundcloud": "",
+  "social_spotify": "",
+  "social_stackoverflow": "",
+  "social_tumblr": "",
+  "social_twitch": "",
+  "social_vimeo": "",
+  "social_youtube": "",
+  "social_keybase": "",
+  "social_discord": "",
+  "social_kofi": ""
+}
+Setting theme preset: Mauve
+Updating social media...
+Removing social twitter
+Setting social bluesky: gcolquhoun
+Removing social behance
+Removing social dribbble
+Removing social email
+Removing social facebook
+Removing social github
+Removing social gitlab
+Removing social instagram
+Removing social kaggle
+Removing social linkedin
+Removing social medium
+Removing social soundcloud
+Removing social spotify
+Removing social stackoverflow
+Removing social tumblr
+Removing social twitch
+Removing social vimeo
+Removing social youtube
+Removing social keybase
+Removing social discord
+Removing social kofi
+Saving config to: E:\githubrepo\gcahoon.github.io\_config.yml
+New YAML content (preview): title: gcolquhoun
+description: Germaine's photography portfolio.
+url: https://gcahoon.github.io
+baseurl: ''
+remote_theme: YoussefRaafatNasry/portfolYOU
+logo: /assets/logo.png
+keywords: portfolio, phot...
+Config saved successfully
+
